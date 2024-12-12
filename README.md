@@ -1,4 +1,4 @@
-# <span style="color:lightblue; font-family: 'Courier New', Courier, monospace;">Hi there, I'm Ahad! 👋</span>
+# <span style="background-color:lightblue; font-family: 'Courier New', Courier, monospace;">Hi there, I'm Ahad! 👋</span>
 
 Welcome to my GitHub profile! I'm passionate about technology and love building things that make a difference. Here's a little about me and the technologies I work with:
 
