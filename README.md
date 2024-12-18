@@ -8,11 +8,12 @@
 ## **A Full Stack Developer**
 
 </div>
-<div align="center">
-A passionate **Full Stack Developer** who transitioned from a **medical background** to the exciting world of **technology**. I discovered my love for **coding** and building applications that solve real-world problems.
+
+- A passionate **Full Stack Developer** who transitioned from a **medical background** to the exciting world of **technology**.
+- I discovered my love for **coding** and building applications that solve real-world problems.
 
 With skills in **HTML**, **CSS**, **JavaScript**, and **Python**, I’m currently sharpening my expertise in **Django** and **REST APIs**. I thrive on solving challenges and constantly aim to create impactful solutions.
-</div>
+
 
 ---
 
