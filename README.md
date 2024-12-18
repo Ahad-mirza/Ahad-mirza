@@ -6,11 +6,9 @@
 
 </div>
 
-A Full Stack Developer passionate about web development since I started exploring technology. Although I began my journey as a **medical student**, my curiosity and love for coding and programming pulled me into the world of **technology**. I realized that solving problems through code and building meaningful applications is where my true passion lies.
+A passionate **Full Stack Developer** who transitioned from a **medical background** to the exciting world of **technology**. I discovered my love for **coding** and building applications that solve real-world problems.
 
-I'm constantly learning and growing to build innovative and impactful solutions. I have experience in **HTML**, **CSS**, **JavaScript**, and **Python**, and I’m currently diving deeper into **Django** and **REST APIs**.
-
-I love challenges and solving problems—they are my strengths, just like every developer. I’m also passionate about teaching and sharing everything I know.
+With skills in **HTML**, **CSS**, **JavaScript**, and **Python**, I’m currently sharpening my expertise in **Django** and **REST APIs**. I thrive on solving challenges and constantly aim to create impactful solutions.
 
 ---
 
@@ -22,11 +20,11 @@ I love challenges and solving problems—they are my strengths, just like every 
 
 ## **Technologies I Love 🚀**
 <div style="display: flex; gap: 10px;">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=&logoColor=white" alt="Django">
 </div>
 
 <div style="display: flex; gap: 10px;">
@@ -36,15 +34,9 @@ I love challenges and solving problems—they are my strengths, just like every 
 
 ---
 
-## **Visitors**
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
 
----
 
-## **GitHub Stats 📊**
-![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
----
 
 ## **Contact Me 📞**
 - **Email:** [yourname@email.com](mailto:yourname@email.com)
@@ -53,4 +45,4 @@ I love challenges and solving problems—they are my strengths, just like every 
 
 ---
 
-I am always open to collaborating on exciting projects and ideas. Feel free to connect and share your thoughts! 🚀
+Let’s collaborate and build something amazing! 🚀
