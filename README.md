@@ -13,6 +13,7 @@ A passionate **Full Stack Developer** who transitioned from a **medical backgrou
 
 With skills in **HTML**, **CSS**, **JavaScript**, and **Python**, I’m currently sharpening my expertise in **Django** and **REST APIs**. I thrive on solving challenges and constantly aim to create impactful solutions.
 </div>
+
 ---
 
 ## **Education 🎓**
