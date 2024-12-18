@@ -41,7 +41,7 @@ With skills in **HTML**, **CSS**, **JavaScript**, and **Python**, I’m currentl
 ---
 
 ## **Contact Me 📞**
-- **Email:** [pywithahad@gmail.com](mailto:yourname@email.com)
+- **Email:** [mughliaz92@gmail.com](mailto:yourname@email.com)
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/)
 
 
