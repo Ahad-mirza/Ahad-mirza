@@ -1,4 +1,6 @@
-# <span style="color: #1E90FF; font-family: 'Courier New', Courier, monospace;">Hi there! 👋 I'm Ahad</span>
+# <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=500&color=FFD700&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Ahad;A+Passionate+Full-Stack+Developer;A+Passionate+Programmer🚀" />
+</h1>
 
 <div align="center">
 
@@ -36,20 +38,10 @@ With skills in **HTML**, **CSS**, **JavaScript**, and **Python**, I’m currentl
 
 ---
 
-## **Visitors**
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
-
----
-
-## **GitHub Stats 📊**
-![Ahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
----
-
 ## **Contact Me 📞**
-- **Email:** [yourname@email.com](mailto:yourname@email.com)
+- **Email:** [pywithahad@gmail.com](mailto:yourname@email.com)
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/)
-- **GitHub:** [Your GitHub](https://github.com/yourusername)
+
 
 ---
 
