@@ -1,6 +1,7 @@
- <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=4000&pause=300&color=007BFF&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Ahad;A+Passionate+Full-Stack+Developer;A+Passionate+Programmer🚀" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=35&duration=4000&pause=300&color=007BFF&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Ahad;A+Passionate+Full-Stack+Developer;A+Passionate+Programmer🚀" />
 </div>
+
 
 <div align="center">
 
